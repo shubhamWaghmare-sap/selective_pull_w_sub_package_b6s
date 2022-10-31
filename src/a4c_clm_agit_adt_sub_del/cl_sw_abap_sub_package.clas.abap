@@ -4,7 +4,7 @@ CLASS cl_sw_abap_sub_package DEFINITION
   CREATE PUBLIC .
 
   PUBLIC SECTION.
-"local
+"Github
   PROTECTED SECTION.
   PRIVATE SECTION.
 ENDCLASS.
